@@ -1,0 +1,10 @@
+.container{
+    background-color: black; color: blanchedalmond;
+}
+h1{
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: greenyellow;
+    text-shadow: 4px 8px 10px red;
+    text-align: center;
+}
